@@ -16,6 +16,7 @@
     <string name="adresse">Adresse :</string>
     <string name="ville">Ville : </string>
     <string name="msgmodifvalid">Les modifications que vous avez apportées à vos informations ont été enregistrées/modifiées. </string>
+    <string name="messageconfirm">Vos informations ont bien été modifié.</string>
 
 
     <!-- Saisir -->
@@ -35,7 +36,12 @@
     <string name="list">Lister ses réservations</string>
     <string name="deco">Déconnecter</string>
     <string name="retour">Retour</string>
+    <string name="connection">Connection</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Next</string>
 </resources>
